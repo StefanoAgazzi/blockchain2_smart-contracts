@@ -1,1 +1,1 @@
-# blockchain-2_smart-contracts
+# blockchain2_smart-contracts
